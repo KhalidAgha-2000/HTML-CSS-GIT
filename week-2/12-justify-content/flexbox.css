@@ -11,3 +11,11 @@
   flex-direction: row;
   justify-content: space-around;
 }
+.countries--third {
+  flex-direction: column;
+  justify-content: end;
+}
+.countries--fourth {
+  flex-direction: column;
+  justify-content: space-between;
+}
