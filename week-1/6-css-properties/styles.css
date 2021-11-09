@@ -5,13 +5,12 @@ a {
   text-decoration: none;
   font-size: 0.9rem;
 }
-
+.message--unread {
+  border-left: 7px blue solid;
+}
 .message__time--old {
   opacity: 0.4;
 }
 .message__content {
   line-height: 25px;
-}
-.message--unread {
-  border-left: 2px blue solid;
 }
