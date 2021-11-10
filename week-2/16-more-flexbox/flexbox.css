@@ -5,12 +5,13 @@
 /* Add your own CSS code below */
 .countries--first {
   align-items: flex-end;
-  justify-content: left;
+  justify-content: end;
 }
 /* SECOND */
 .countries--second {
   align-items: flex-end;
   flex-direction: row-reverse;
+  justify-content: center;
 }
 /* THIRD */
 .countries--third {
