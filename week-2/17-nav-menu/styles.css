@@ -4,18 +4,15 @@
     display: flex;
   }
 }
+
 @media (min-width: 700px) {
-  .site-header {
+  header {
     display: flex;
   }
 }
+
 @media (min-width: 992px) {
   .site-header__nav {
-    color: wheat;
-    justify-content: start;
-  }
-  header :last-child {
-    align-items: flex-end;
-    color: red;
+    margin: auto;
   }
 }
