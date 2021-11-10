@@ -10,7 +10,7 @@ To complete this exercise, follow the steps in each section below. When you comp
 
 _To complete these exercises you should only modify `about.html`, `contact.html`, `index.html` and `styles.css`._
 
-## 1. Made with ♥
+## 1. Made with ♥ .DONE
 
 At the bottom of the website, you will find the text "Built with ♥ for Codi". It would be fun to make the ♥ appear in red (`#c85308`).
 
@@ -23,7 +23,7 @@ When you have done this, the text should look like the image below.
 
 ![Screenshot of the red heart solution](/images/29-solution-heart.png)
 
-## 2. Semantic HTML
+## 2. Semantic HTML .DONE
 
 A few semantic tags are missing from the HTML files in this exercise. To complete this exercise, follow the steps below.
 
@@ -32,7 +32,7 @@ A few semantic tags are missing from the HTML files in this exercise. To complet
 
 _Hint: You will have to replace existing elements in the HTML code._
 
-## 3. Hero Text Size
+## 3. Hero Text Size .DONE
 
 The large image on the main page, with the title "Duis aute irure dolor in reprehenderit in voluptate velit", is called a "Hero" component. It is commonly used to draw attention to the most important item on the page.
 
@@ -48,7 +48,7 @@ When you are done, it should look like the image below for screens wider than 99
 
 ![Screenshot of the hero solution](/images/29-solution-hero.png)
 
-## 4. Navigation Menu
+## 4. Navigation Menu .DONE
 
 The navigation links in the header appear on top of each other.
 
@@ -62,7 +62,7 @@ When you are done, it should look like the image below.
 
 ![Screenshot of the nav menu solution](/images/29-solution-nav-menu.png)
 
-## 5. Header
+## 5. Header .DONE
 
 The logo, navigation menu and search input could fit side by side on wider screens. To complete this exercise, follow the steps below.
 
@@ -74,7 +74,7 @@ When you are done, it should look like the image below.
 
 ![Screenshot of the nav menu solution](/images/29-solution-header.png)
 
-## 6. Views
+## 6. Views .DONE
 
 The links to view different articles are on top of each other. On wider screens, they can fit side by side. To complete this exercise, follow the steps below.
 
@@ -86,7 +86,7 @@ When you are done, it should look like the image below.
 
 ![Screenshot of the views solution](/images/29-solution-views.png)
 
-## 7. Form Accessibility
+## 7. Form Accessibility .DONE
 
 When you click on the "Contact" link in the navigation menu, it will take you to a page with a contact form. You will find the code for this page at `contact.html`.
 
@@ -101,7 +101,7 @@ When you are done, you should be able to click on the label and begin typing a m
 
 ![Screenshot of the label solution](/images/29-solution-label.gif)
 
-## 8. Email Field
+## 8. Email Field .DONE
 
 We need a way to contact someone who sends us a message. Add a new field for the user to enter their email address. Follow the steps below to complete this exercise.
 
@@ -114,7 +114,7 @@ When you are done, it should look like the image below.
 
 ![Screenshot of the email solution](/images/29-solution-email.png)
 
-## 9. Required Fields
+## 9. Required Fields .DONE
 
 If the user submits the form before completing all the fields, we won't know who they are or what they want. We should require the user to complete all fields before the form is submitted.
 
@@ -128,7 +128,7 @@ When you submit the form with one field empty, you should see an error message l
 
 ![Screenshot of the required fields solution](/images/29-solution-required.gif)
 
-## 10. Radio Buttons
+## 10. Radio Buttons .DONE
 
 Codi has three branches: Beirut, Tripoly and Sour. When someone contacts us, we should ask them which branch they are interested in.
 
@@ -142,7 +142,7 @@ When you are done, it should look like the image below.
 
 ![Screenshot of the radio buttons solution](/images/29-solution-radio.png)
 
-## 11. Text Formatting
+## 11. Text Formatting .DONE
 
 When you click on the "About" link in the navigation menu, it will take you to a page with paragraphs of text. You will find the code for this page at `about.html`.
 
